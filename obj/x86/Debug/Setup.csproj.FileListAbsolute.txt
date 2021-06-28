@@ -1,0 +1,9 @@
+D:\Projetos\C#\Bibliotecas\Setup\bin\Debug\Setup.exe
+D:\Projetos\C#\Bibliotecas\Setup\bin\Debug\Setup.pdb
+D:\Projetos\C#\Bibliotecas\Setup\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Bibliotecas\Setup\obj\x86\Debug\Setup.SETUP.resources
+D:\Projetos\C#\Bibliotecas\Setup\obj\x86\Debug\Setup.Properties.Resources.resources
+D:\Projetos\C#\Bibliotecas\Setup\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Bibliotecas\Setup\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Bibliotecas\Setup\obj\x86\Debug\Setup.exe
+D:\Projetos\C#\Bibliotecas\Setup\obj\x86\Debug\Setup.pdb
